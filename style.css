@@ -1,17 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Lexend:wght@100..900&display=swap');
 
-@font-face {
-    font-family: "Harmond";
-    src: url(annexe/font/Harmond/Harmond-SemBdItaCond.otf);
-}
-@font-face {
-    font-family: "cab" ;
-    src: url(annexe/font/cab/OTF/CabinetGrotesk-Medium.otf);
-}
-@font-face {
-    font-family: "get" ;
-    src: url(annexe/font/get/Geist-Medium.otf);
-}
+
 *{
     margin: 0;
     padding: 0;
